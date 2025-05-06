@@ -1,0 +1,500 @@
+{"id":"JD_001","text":"Seeking a Python developer with Django experience for backend development.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"}]}
+{"id":"JD_002","text":"Full-stack engineer needed with React and Node.js expertise.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Node.js"}]}
+{"id":"JD_003","text":"AWS cloud architect to design scalable infrastructure solutions.","entities":[{"label":"SKILL","text":"AWS"}]}
+{"id":"JD_004","text":"DevOps engineer with Docker and Kubernetes skills.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"Kubernetes"}]}
+{"id":"JD_005","text":"Frontend developer proficient in Angular and TypeScript.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"TypeScript"}]}
+{"id":"JD_006","text":"Backend developer with Flask and SQL experience.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"SQL"}]}
+{"id":"JD_007","text":"Data engineer skilled in NoSQL and Python.","entities":[{"label":"SKILL","text":"NoSQL"},{"label":"SKILL","text":"Python"}]}
+{"id":"JD_008","text":"Full-stack developer with React and Django expertise.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Django"}]}
+{"id":"JD_009","text":"DevOps specialist for AWS and CI/CD pipelines.","entities":[{"label":"SKILL","text":"AWS"}]}
+{"id":"JD_010","text":"Frontend engineer with JavaScript and React skills.","entities":[{"label":"SKILL","text":"JavaScript"},{"label":"SKILL","text":"React"}]}
+{"id":"JD_011","text":"Backend developer proficient in Node.js and MongoDB.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_012","text":"Cloud engineer with AWS and Terraform experience.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Terraform"}]}
+{"id":"JD_013","text":"Python developer for data processing and automation.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_014","text":"Full-stack developer with Angular and Firebase.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"Firebase"}]}
+{"id":"JD_015","text":"DevOps engineer with Kubernetes and Helm knowledge.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Helm"}]}
+{"id":"JD_016","text":"Backend engineer with Django and PostgreSQL.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"PostgreSQL"}]}
+{"id":"JD_017","text":"Frontend developer skilled in React and Redux.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Redux"}]}
+{"id":"JD_018","text":"Data scientist with Python and SQL expertise.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"SQL"}]}
+{"id":"JD_019","text":"Cloud architect for AWS and serverless solutions.","entities":[{"label":"SKILL","text":"AWS"}]}
+{"id":"JD_020","text":"Full-stack developer with Vue.js and Node.js.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"Node.js"}]}
+{"id":"JD_021","text":"Backend engineer with Flask and MySQL.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"MySQL"}]}
+{"id":"JD_022","text":"DevOps specialist for Docker and Jenkins.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"Jenkins"}]}
+{"id":"JD_023","text":"Frontend developer with TypeScript and Angular.","entities":[{"label":"SKILL","text":"TypeScript"},{"label":"SKILL","text":"Angular"}]}
+{"id":"JD_024","text":"Python developer for web scraping and APIs.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_025","text":"Full-stack engineer with React and GraphQL.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"GraphQL"}]}
+{"id":"JD_026","text":"Backend developer with Node.js and MongoDB.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_027","text":"Cloud engineer for AWS and microservices.","entities":[{"label":"SKILL","text":"AWS"}]}
+{"id":"JD_028","text":"DevOps engineer with Kubernetes and Prometheus.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Prometheus"}]}
+{"id":"JD_029","text":"Frontend developer with React and Material-UI.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Material-UI"}]}
+{"id":"JD_030","text":"Backend engineer with Django and REST APIs.","entities":[{"label":"SKILL","text":"Django"}]}
+{"id":"JD_031","text":"Data engineer with Python and Spark.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Spark"}]}
+{"id":"JD_032","text":"Full-stack developer with Angular and Node.js.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"Node.js"}]}
+{"id":"JD_033","text":"DevOps specialist for AWS and Ansible.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Ansible"}]}
+{"id":"JD_034","text":"Backend developer with Flask and PostgreSQL.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"PostgreSQL"}]}
+{"id":"JD_035","text":"Frontend engineer with Vue.js and TypeScript.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"TypeScript"}]}
+{"id":"JD_036","text":"Python developer for machine learning projects.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_037","text":"Full-stack engineer with React and Express.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Express"}]}
+{"id":"JD_038","text":"DevOps engineer with Docker and GitLab CI.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"GitLab CI"}]}
+{"id":"JD_039","text":"Backend developer with Node.js and SQL.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"SQL"}]}
+{"id":"JD_040","text":"Cloud architect for AWS and Lambda.","entities":[{"label":"SKILL","text":"AWS"}]}
+{"id":"JD_041","text":"Frontend developer with Angular and RxJS.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"RxJS"}]}
+{"id":"JD_042","text":"Python developer for backend services.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_043","text":"Full-stack engineer with React and MongoDB.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_044","text":"DevOps specialist for Kubernetes and Istio.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Istio"}]}
+{"id":"JD_045","text":"Backend engineer with Django and Celery.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"Celery"}]}
+{"id":"JD_046","text":"Frontend developer with TypeScript and Next.js.","entities":[{"label":"SKILL","text":"TypeScript"},{"label":"SKILL","text":"Next.js"}]}
+{"id":"JD_047","text":"Data engineer with Python and Pandas.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Pandas"}]}
+{"id":"JD_048","text":"Full-stack developer with Vue.js and Firebase.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"Firebase"}]}
+{"id":"JD_049","text":"DevOps engineer with AWS and CloudFormation.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"CloudFormation"}]}
+{"id":"JD_050","text":"Backend developer with Flask and Redis.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"Redis"}]}
+{"id":"JD_051","text":"Frontend engineer with React and Styled Components.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Styled Components"}]}
+{"id":"JD_052","text":"Python developer for API development.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_053","text":"Full-stack engineer with Angular and NestJS.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"NestJS"}]}
+{"id":"JD_054","text":"DevOps specialist for Docker and AWS ECS.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"AWS ECS"}]}
+{"id":"JD_055","text":"Backend developer with Node.js and TypeScript.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"TypeScript"}]}
+{"id":"JD_056","text":"Cloud engineer for AWS and RDS.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"RDS"}]}
+{"id":"JD_057","text":"Frontend developer with React and Apollo.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Apollo"}]}
+{"id":"JD_058","text":"Python developer for data analysis.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_059","text":"Full-stack engineer with React and Node.js.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Node.js"}]}
+{"id":"JD_060","text":"DevOps engineer with Kubernetes and Grafana.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Grafana"}]}
+{"id":"JD_061","text":"Backend engineer with Django and GraphQL.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"GraphQL"}]}
+{"id":"JD_062","text":"Frontend developer with TypeScript and Svelte.","entities":[{"label":"SKILL","text":"TypeScript"},{"label":"SKILL","text":"Svelte"}]}
+{"id":"JD_063","text":"Data engineer with Python and Airflow.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Airflow"}]}
+{"id":"JD_064","text":"Full-stack developer with Vue.js and MongoDB.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_065","text":"DevOps specialist for AWS and Elastic Beanstalk.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Elastic Beanstalk"}]}
+{"id":"JD_066","text":"Backend developer with Flask and SQLAlchemy.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"SQLAlchemy"}]}
+{"id":"JD_067","text":"Frontend engineer with React and Tailwind CSS.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Tailwind CSS"}]}
+{"id":"JD_068","text":"Python developer for automation scripts.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_069","text":"Full-stack engineer with Angular and Firebase.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"Firebase"}]}
+{"id":"JD_070","text":"DevOps engineer with Docker and CircleCI.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"CircleCI"}]}
+{"id":"JD_071","text":"Backend developer with Node.js and Express.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"Express"}]}
+{"id":"JD_072","text":"Cloud architect for AWS and DynamoDB.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"DynamoDB"}]}
+{"id":"JD_073","text":"Frontend developer with React and Redux Saga.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Redux Saga"}]}
+{"id":"JD_074","text":"Python developer for backend services.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_075","text":"Full-stack engineer with React and MongoDB.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_076","text":"DevOps specialist for Kubernetes and Helm.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Helm"}]}
+{"id":"JD_077","text":"Backend engineer with Django and PostgreSQL.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"PostgreSQL"}]}
+{"id":"JD_078","text":"Frontend developer with TypeScript and Angular.","entities":[{"label":"SKILL","text":"TypeScript"},{"label":"SKILL","text":"Angular"}]}
+{"id":"JD_079","text":"Data engineer with Python and PySpark.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"PySpark"}]}
+{"id":"JD_080","text":"Full-stack developer with Vue.js and Node.js.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"Node.js"}]}
+{"id":"JD_081","text":"DevOps engineer with AWS and Terraform.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Terraform"}]}
+{"id":"JD_082","text":"Backend developer with Flask and MySQL.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"MySQL"}]}
+{"id":"JD_083","text":"Frontend engineer with React and Material-UI.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Material-UI"}]}
+{"id":"JD_084","text":"Python developer for web applications.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_085","text":"Full-stack engineer with Angular and TypeScript.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"TypeScript"}]}
+{"id":"JD_086","text":"DevOps specialist for Docker and Jenkins.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"Jenkins"}]}
+{"id":"JD_087","text":"Backend developer with Node.js and MongoDB.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_088","text":"Cloud engineer for AWS and S3.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"S3"}]}
+{"id":"JD_089","text":"Frontend developer with React and GraphQL.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"GraphQL"}]}
+{"id":"JD_090","text":"Python developer for data processing.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_091","text":"Full-stack engineer with React and Express.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Express"}]}
+{"id":"JD_092","text":"DevOps engineer with Kubernetes and Prometheus.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Prometheus"}]}
+{"id":"JD_093","text":"Backend engineer with Django and REST APIs.","entities":[{"label":"SKILL","text":"Django"}]}
+{"id":"JD_094","text":"Frontend developer with TypeScript and Next.js.","entities":[{"label":"SKILL","text":"TypeScript"},{"label":"SKILL","text":"Next.js"}]}
+{"id":"JD_095","text":"Data engineer with Python and SQL.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"SQL"}]}
+{"id":"JD_096","text":"Full-stack developer with Vue.js and Firebase.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"Firebase"}]}
+{"id":"JD_097","text":"DevOps specialist for AWS and CloudFormation.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"CloudFormation"}]}
+{"id":"JD_098","text":"Backend developer with Flask and Redis.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"Redis"}]}
+{"id":"JD_099","text":"Frontend engineer with React and Styled Components.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Styled Components"}]}
+{"id":"JD_100","text":"Python developer for API development.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_101","text":"Full-stack engineer with Angular and NestJS.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"NestJS"}]}
+{"id":"JD_102","text":"DevOps specialist for Docker and AWS ECS.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"AWS ECS"}]}
+{"id":"JD_103","text":"Backend developer with Node.js and TypeScript.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"TypeScript"}]}
+{"id":"JD_104","text":"Cloud engineer for AWS and RDS.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"RDS"}]}
+{"id":"JD_105","text":"Frontend developer with React and Apollo.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Apollo"}]}
+{"id":"JD_106","text":"Python developer for data analysis.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_107","text":"Full-stack engineer with React and Node.js.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Node.js"}]}
+{"id":"JD_108","text":"DevOps engineer with Kubernetes and Grafana.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Grafana"}]}
+{"id":"JD_109","text":"Backend engineer with Django and GraphQL.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"GraphQL"}]}
+{"id":"JD_110","text":"Frontend developer with TypeScript and Svelte.","entities":[{"label":"SKILL","text":"TypeScript"},{"label":"SKILL","text":"Svelte"}]}
+{"id":"JD_111","text":"Data engineer with Python and Airflow.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Airflow"}]}
+{"id":"JD_112","text":"Full-stack developer with Vue.js and MongoDB.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_113","text":"DevOps specialist for AWS and Elastic Beanstalk.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Elastic Beanstalk"}]}
+{"id":"JD_114","text":"Backend developer with Flask and SQLAlchemy.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"SQLAlchemy"}]}
+{"id":"JD_115","text":"Frontend engineer with React and Tailwind CSS.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Tailwind CSS"}]}
+{"id":"JD_116","text":"Python developer for automation scripts.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_117","text":"Full-stack engineer with Angular and Firebase.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"Firebase"}]}
+{"id":"JD_118","text":"DevOps engineer with Docker and CircleCI.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"CircleCI"}]}
+{"id":"JD_119","text":"Backend developer with Node.js and Express.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"Express"}]}
+{"id":"JD_120","text":"Cloud architect for AWS and DynamoDB.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"DynamoDB"}]}
+{"id":"JD_121","text":"Frontend developer with React and Redux Saga.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Redux Saga"}]}
+{"id":"JD_122","text":"Python developer for backend services.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_123","text":"Full-stack engineer with React and MongoDB.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_124","text":"DevOps specialist for Kubernetes and Helm.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Helm"}]}
+{"id":"JD_125","text":"Backend engineer with Django and PostgreSQL.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"PostgreSQL"}]}
+{"id":"JD_126","text":"Frontend developer with TypeScript and Angular.","entities":[{"label":"SKILL","text":"TypeScript"},{"label":"SKILL","text":"Angular"}]}
+{"id":"JD_127","text":"Data engineer with Python and PySpark.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"PySpark"}]}
+{"id":"JD_128","text":"Full-stack developer with Vue.js and Node.js.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"Node.js"}]}
+{"id":"JD_129","text":"DevOps engineer with AWS and Terraform.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Terraform"}]}
+{"id":"JD_130","text":"Backend developer with Flask and MySQL.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"MySQL"}]}
+{"id":"JD_131","text":"Frontend engineer with React and Material-UI.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Material-UI"}]}
+{"id":"JD_132","text":"Python developer for web applications.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_132","text":"Full-stack engineer with Angular and TypeScript.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"TypeScript"}]}
+{"id":"JD_133","text":"DevOps specialist for Docker and Jenkins.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"Jenkins"}]}
+{"id":"JD_134","text":"Backend developer with Node.js and MongoDB.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_135","text":"Cloud engineer for AWS and S3.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"S3"}]}
+{"id":"JD_136","text":"Frontend developer with React and GraphQL.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"GraphQL"}]}
+{"id":"JD_137","text":"Python developer for data processing.","entities":[{"label":"SKILL","text":"Python"}]}
+{"id":"JD_138","text":"Full-stack engineer with React and Express.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Express"}]}
+{"id":"JD_139","text":"DevOps engineer with Kubernetes and Prometheus.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Prometheus"}]}
+{"id":"JD_140","text":"Backend engineer with Django and REST APIs.","entities":[{"label":"SKILL","text":"Django"}]}
+{"id":"JD_141","text":"Frontend developer with TypeScript and Next.js.","entities":[{"label":"SKILL","text":"TypeScript"},{"label":"SKILL","text":"Next.js"}]}
+{"id":"JD_142","text":"Data engineer with Python and SQL.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"SQL"}]}
+{"id":"JD_143","text":"Full-stack developer with Vue.js and Firebase.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"Firebase"}]}
+{"id":"JD_144","text":"DevOps specialist for AWS and CloudFormation.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"CloudFormation"}]}
+{"id": "JD_145", "text": "Seeking a Python developer with Django experience to build scalable web applications.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "Django"}]}
+{"id": "JD_146", "text": "Full-stack engineer needed proficient in JavaScript, React, and Node.js for frontend and backend development.", "entities": [{"label": "SKILL", "text": "JavaScript"}, {"label": "SKILL", "text": "React"}, {"label": "SKILL", "text": "Node.js"}]}
+{"id": "JD_147", "text": "Backend developer with expertise in AWS and Docker to optimize cloud infrastructure.", "entities": [{"label": "SKILL", "text": "AWS"}, {"label": "SKILL", "text": "Docker"}]}
+{"id": "JD_148", "text": "Frontend developer skilled in Angular and TypeScript to create dynamic user interfaces.", "entities": [{"label": "SKILL", "text": "Angular"}, {"label": "SKILL", "text": "TypeScript"}]}
+{"id": "JD_149", "text": "DevOps engineer experienced in Kubernetes and CI/CD pipelines for seamless deployments.", "entities": [{"label": "SKILL", "text": "Kubernetes"}, {"label": "SKILL", "text": "CI/CD"}]}
+{"id": "JD_150", "text": "Data engineer proficient in SQL and NoSQL databases for efficient data management.", "entities": [{"label": "SKILL", "text": "SQL"}, {"label": "SKILL", "text": "NoSQL"}]}
+{"id": "JD_151", "text": "Python developer with Flask knowledge to design RESTful APIs.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "Flask"}]}
+{"id": "JD_152", "text": "React.js developer to build responsive and interactive web applications.", "entities": [{"label": "SKILL", "text": "React.js"}]}
+{"id": "JD_153", "text": "Cloud architect with AWS and Terraform expertise for infrastructure automation.", "entities": [{"label": "SKILL", "text": "AWS"}, {"label": "SKILL", "text": "Terraform"}]}
+{"id": "JD_154", "text": "Full-stack developer skilled in JavaScript, Node.js, and MongoDB for end-to-end solutions.", "entities": [{"label": "SKILL", "text": "JavaScript"}, {"label": "SKILL", "text": "Node.js"}, {"label": "SKILL", "text": "MongoDB"}]}
+{"id": "JD_155", "text": "Backend engineer with Python and PostgreSQL experience for high-performance systems.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "PostgreSQL"}]}
+{"id": "JD_156", "text": "Frontend specialist proficient in React and Redux for state management.", "entities": [{"label": "SKILL", "text": "React"}, {"label": "SKILL", "text": "Redux"}]}
+{"id": "JD_157", "text": "DevOps professional with Docker and Jenkins skills for continuous integration.", "entities": [{"label": "SKILL", "text": "Docker"}, {"label": "SKILL", "text": "Jenkins"}]}
+{"id": "JD_158", "text": "Data scientist with Python and Pandas for data analysis and visualization.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "Pandas"}]}
+{"id": "JD_159", "text": "Software engineer experienced in Java and Spring Boot for enterprise applications.", "entities": [{"label": "SKILL", "text": "Java"}, {"label": "SKILL", "text": "Spring Boot"}]}
+{"id": "JD_160", "text": "UI/UX developer skilled in HTML, CSS, and JavaScript for seamless user experiences.", "entities": [{"label": "SKILL", "text": "HTML"}, {"label": "SKILL", "text": "CSS"}, {"label": "SKILL", "text": "JavaScript"}]}
+{"id": "JD_161", "text": "Backend developer with Node.js and Express for API development.", "entities": [{"label": "SKILL", "text": "Node.js"}, {"label": "SKILL", "text": "Express"}]}
+{"id": "JD_162", "text": "Cloud engineer proficient in AWS Lambda and serverless architectures.", "entities": [{"label": "SKILL", "text": "AWS Lambda"}, {"label": "SKILL", "text": "serverless"}]}
+{"id": "JD_163", "text": "Full-stack developer with Vue.js and Firebase for real-time applications.", "entities": [{"label": "SKILL", "text": "Vue.js"}, {"label": "SKILL", "text": "Firebase"}]}
+{"id": "JD_164", "text": "DevOps specialist skilled in Ansible and Kubernetes for orchestration.", "entities": [{"label": "SKILL", "text": "Ansible"}, {"label": "SKILL", "text": "Kubernetes"}]}
+{"id": "JD_165", "text": "Data engineer with Apache Spark and Hadoop for big data processing.", "entities": [{"label": "SKILL", "text": "Apache Spark"}, {"label": "SKILL", "text": "Hadoop"}]}
+{"id": "JD_166", "text": "Python developer with NumPy and SciPy for scientific computing.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "NumPy"}, {"label": "SKILL", "text": "SciPy"}]}
+{"id": "JD_167", "text": "Frontend developer with Angular and RxJS for reactive programming.", "entities": [{"label": "SKILL", "text": "Angular"}, {"label": "SKILL", "text": "RxJS"}]}
+{"id": "JD_168", "text": "Backend engineer with Ruby on Rails for rapid web development.", "entities": [{"label": "SKILL", "text": "Ruby on Rails"}]}
+{"id": "JD_169", "text": "Full-stack developer proficient in TypeScript and NestJS for scalable apps.", "entities": [{"label": "SKILL", "text": "TypeScript"}, {"label": "SKILL", "text": "NestJS"}]}
+{"id": "JD_170", "text": "DevOps engineer with Prometheus and Grafana for monitoring solutions.", "entities": [{"label": "SKILL", "text": "Prometheus"}, {"label": "SKILL", "text": "Grafana"}]}
+{"id": "JD_171", "text": "Data analyst with SQL and Tableau for business intelligence.", "entities": [{"label": "SKILL", "text": "SQL"}, {"label": "SKILL", "text": "Tableau"}]}
+{"id": "JD_172", "text": "Software engineer with C# and .NET for Windows applications.", "entities": [{"label": "SKILL", "text": "C#"}, {"label": "SKILL", "text": ".NET"}]}
+{"id": "JD_173", "text": "Mobile developer skilled in React Native for cross-platform apps.", "entities": [{"label": "SKILL", "text": "React Native"}]}
+{"id": "JD_174", "text": "Backend developer with Go and gRPC for high-performance services.", "entities": [{"label": "SKILL", "text": "Go"}, {"label": "SKILL", "text": "gRPC"}]}
+{"id": "JD_175", "text": "Cloud architect with Azure and ARM templates for infrastructure as code.", "entities": [{"label": "SKILL", "text": "Azure"}, {"label": "SKILL", "text": "ARM templates"}]}
+{"id": "JD_176", "text": "Full-stack developer with Svelte and Node.js for modern web apps.", "entities": [{"label": "SKILL", "text": "Svelte"}, {"label": "SKILL", "text": "Node.js"}]}
+{"id": "JD_177", "text": "DevOps engineer with GitLab CI/CD for automated workflows.", "entities": [{"label": "SKILL", "text": "GitLab CI/CD"}]}
+{"id": "JD_178", "text": "Data engineer with Apache Kafka for real-time data streaming.", "entities": [{"label": "SKILL", "text": "Apache Kafka"}]}
+{"id": "JD_179", "text": "Python developer with TensorFlow for machine learning models.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "TensorFlow"}]}
+{"id": "JD_180", "text": "Frontend developer with Next.js for server-side rendering.", "entities": [{"label": "SKILL", "text": "Next.js"}]}
+{"id": "JD_181", "text": "Backend engineer with Elixir and Phoenix for scalable systems.", "entities": [{"label": "SKILL", "text": "Elixir"}, {"label": "SKILL", "text": "Phoenix"}]}
+{"id": "JD_182", "text": "Full-stack developer with GraphQL and Apollo for efficient APIs.", "entities": [{"label": "SKILL", "text": "GraphQL"}, {"label": "SKILL", "text": "Apollo"}]}
+{"id": "JD_183", "text": "DevOps specialist with Helm and Kubernetes for container management.", "entities": [{"label": "SKILL", "text": "Helm"}, {"label": "SKILL", "text": "Kubernetes"}]}
+{"id": "JD_184", "text": "Data scientist with PyTorch for deep learning applications.", "entities": [{"label": "SKILL", "text": "PyTorch"}]}
+{"id": "JD_185", "text": "Software engineer with Rust for performance-critical systems.", "entities": [{"label": "SKILL", "text": "Rust"}]}
+{"id": "JD_186", "text": "Mobile developer with Flutter for beautiful cross-platform apps.", "entities": [{"label": "SKILL", "text": "Flutter"}]}
+{"id": "JD_187", "text": "Backend developer with Django REST Framework for API development.", "entities": [{"label": "SKILL", "text": "Django REST Framework"}]}
+{"id": "JD_188", "text": "Cloud engineer with Google Cloud Platform and BigQuery for data solutions.", "entities": [{"label": "SKILL", "text": "Google Cloud Platform"}, {"label": "SKILL", "text": "BigQuery"}]}
+{"id": "JD_189", "text": "Full-stack developer with Meteor and MongoDB for real-time apps.", "entities": [{"label": "SKILL", "text": "Meteor"}, {"label": "SKILL", "text": "MongoDB"}]}
+{"id": "JD_190", "text": "DevOps engineer with Istio for service mesh management.", "entities": [{"label": "SKILL", "text": "Istio"}]}
+{"id": "JD_191", "text": "Data engineer with Snowflake for cloud data warehousing.", "entities": [{"label": "SKILL", "text": "Snowflake"}]}
+{"id": "JD_192", "text": "Python developer with FastAPI for high-performance APIs.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "FastAPI"}]}
+{"id": "JD_193", "text": "Frontend developer with Tailwind CSS for responsive designs.", "entities": [{"label": "SKILL", "text": "Tailwind CSS"}]}
+{"id": "JD_194", "text": "Backend engineer with Scala and Akka for concurrent systems.", "entities": [{"label": "SKILL", "text": "Scala"}, {"label": "SKILL", "text": "Akka"}]}
+{"id": "JD_195", "text": "Full-stack developer with Deno and Oak for modern backends.", "entities": [{"label": "SKILL", "text": "Deno"}, {"label": "SKILL", "text": "Oak"}]}
+{"id": "JD_196", "text": "DevOps engineer with Argo CD for GitOps workflows.", "entities": [{"label": "SKILL", "text": "Argo CD"}]}
+{"id": "JD_197", "text": "Data analyst with Power BI for interactive dashboards.", "entities": [{"label": "SKILL", "text": "Power BI"}]}
+{"id": "JD_198", "text": "Software engineer with Kotlin for Android development.", "entities": [{"label": "SKILL", "text": "Kotlin"}]}
+{"id": "JD_199", "text": "Mobile developer with Swift for iOS applications.", "entities": [{"label": "SKILL", "text": "Swift"}]}
+{"id": "JD_200", "text": "Backend developer with Spring and Hibernate for Java applications.", "entities": [{"label": "SKILL", "text": "Spring"}, {"label": "SKILL", "text": "Hibernate"}]}
+{"id": "JD_201", "text": "Cloud architect with OpenStack for private cloud solutions.", "entities": [{"label": "SKILL", "text": "OpenStack"}]}
+{"id": "JD_202", "text": "Full-stack developer with Ember.js for ambitious web apps.", "entities": [{"label": "SKILL", "text": "Ember.js"}]}
+{"id": "JD_203", "text": "DevOps specialist with Consul for service discovery.", "entities": [{"label": "SKILL", "text": "Consul"}]}
+{"id": "JD_204", "text": "Data engineer with Apache Flink for stream processing.", "entities": [{"label": "SKILL", "text": "Apache Flink"}]}
+{"id": "JD_205", "text": "Python developer with Scikit-learn for machine learning.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "Scikit-learn"}]}
+{"id": "JD_206", "text": "Frontend developer with Web Components for reusable UI.", "entities": [{"label": "SKILL", "text": "Web Components"}]}
+{"id": "JD_207", "text": "Backend engineer with Micronaut for lightweight Java apps.", "entities": [{"label": "SKILL", "text": "Micronaut"}]}
+{"id": "JD_208", "text": "Full-stack developer with Strapi for headless CMS solutions.", "entities": [{"label": "SKILL", "text": "Strapi"}]}
+{"id": "JD_209", "text": "DevOps engineer with Vault for secrets management.", "entities": [{"label": "SKILL", "text": "Vault"}]}
+{"id": "JD_210", "text": "Data scientist with R and ggplot2 for statistical analysis.", "entities": [{"label": "SKILL", "text": "R"}, {"label": "SKILL", "text": "ggplot2"}]}
+{"id": "JD_211", "text": "Software engineer with Perl for scripting and automation.", "entities": [{"label": "SKILL", "text": "Perl"}]}
+{"id": "JD_212", "text": "Mobile developer with Xamarin for cross-platform apps.", "entities": [{"label": "SKILL", "text": "Xamarin"}]}
+{"id": "JD_213", "text": "Backend developer with Lumen for microservices in PHP.", "entities": [{"label": "SKILL", "text": "Lumen"}]}
+{"id": "JD_214", "text": "Cloud engineer with DigitalOcean for scalable infrastructure.", "entities": [{"label": "SKILL", "text": "DigitalOcean"}]}
+{"id": "JD_215", "text": "Full-stack developer with Quasar Framework for Vue.js apps.", "entities": [{"label": "SKILL", "text": "Quasar Framework"}]}
+{"id": "JD_216", "text": "DevOps specialist with Spinnaker for multi-cloud deployments.", "entities": [{"label": "SKILL", "text": "Spinnaker"}]}
+{"id": "JD_217", "text": "Data engineer with Apache Beam for batch and stream processing.", "entities": [{"label": "SKILL", "text": "Apache Beam"}]}
+{"id": "JD_218", "text": "Python developer with Celery for distributed task queues.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "Celery"}]}
+{"id": "JD_219", "text": "Frontend developer with D3.js for data visualization.", "entities": [{"label": "SKILL", "text": "D3.js"}]}
+{"id": "JD_220", "text": "Backend engineer with JAX-RS for RESTful services in Java.", "entities": [{"label": "SKILL", "text": "JAX-RS"}]}
+{"id": "JD_221", "text": "Full-stack developer with AdonisJS for Node.js applications.", "entities": [{"label": "SKILL", "text": "AdonisJS"}]}
+{"id": "JD_222", "text": "DevOps engineer with Rancher for Kubernetes management.", "entities": [{"label": "SKILL", "text": "Rancher"}]}
+{"id": "JD_223", "text": "Seeking a Python developer with experience in Django for backend development.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "Django"}]}
+{"id": "JD_224", "text": "Full-stack engineer proficient in React and Node.js for web applications.", "entities": [{"label": "SKILL", "text": "React"}, {"label": "SKILL", "text": "Node.js"}]}
+{"id": "JD_225", "text": "AWS cloud architect with expertise in serverless and microservices.", "entities": [{"label": "SKILL", "text": "AWS"}, {"label": "SKILL", "text": "serverless"}]}
+{"id": "JD_226", "text": "DevOps engineer skilled in Docker and Kubernetes for container orchestration.", "entities": [{"label": "SKILL", "text": "Docker"}, {"label": "SKILL", "text": "Kubernetes"}]}
+{"id": "JD_227", "text": "Frontend developer with strong TypeScript and Angular experience.", "entities": [{"label": "SKILL", "text": "TypeScript"}, {"label": "SKILL", "text": "Angular"}]}
+{"id": "JD_228", "text": "Backend engineer specializing in Flask and RESTful API design.", "entities": [{"label": "SKILL", "text": "Flask"}, {"label": "SKILL", "text": "RESTful API"}]}
+{"id": "JD_229", "text": "Database administrator proficient in SQL and NoSQL solutions.", "entities": [{"label": "SKILL", "text": "SQL"}, {"label": "SKILL", "text": "NoSQL"}]}
+{"id": "JD_230", "text": "JavaScript developer with React Native for cross-platform mobile apps.", "entities": [{"label": "SKILL", "text": "JavaScript"}, {"label": "SKILL", "text": "React Native"}]}
+{"id": "JD_231", "text": "Cloud engineer with AWS Lambda and DynamoDB expertise.", "entities": [{"label": "SKILL", "text": "AWS Lambda"}, {"label": "SKILL", "text": "DynamoDB"}]}
+{"id": "JD_232", "text": "Full-stack developer skilled in Vue.js and Firebase.", "entities": [{"label": "SKILL", "text": "Vue.js"}, {"label": "SKILL", "text": "Firebase"}]}
+{"id": "JD_233", "text": "Backend developer with Python and FastAPI for high-performance APIs.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "FastAPI"}]}
+{"id": "JD_234", "text": "DevOps specialist with CI/CD pipelines and Terraform.", "entities": [{"label": "SKILL", "text": "CI/CD"}, {"label": "SKILL", "text": "Terraform"}]}
+{"id": "JD_235", "text": "Frontend engineer with Next.js and GraphQL experience.", "entities": [{"label": "SKILL", "text": "Next.js"}, {"label": "SKILL", "text": "GraphQL"}]}
+{"id": "JD_236", "text": "Data engineer skilled in Apache Spark and PostgreSQL.", "entities": [{"label": "SKILL", "text": "Apache Spark"}, {"label": "SKILL", "text": "PostgreSQL"}]}
+{"id": "JD_237", "text": "Mobile developer with Flutter and Dart for cross-platform apps.", "entities": [{"label": "SKILL", "text": "Flutter"}, {"label": "SKILL", "text": "Dart"}]}
+{"id": "JD_238", "text": "Backend engineer with Go and microservices architecture.", "entities": [{"label": "SKILL", "text": "Go"}, {"label": "SKILL", "text": "microservices"}]}
+{"id": "JD_239", "text": "Full-stack developer with MERN stack (MongoDB, Express, React, Node).", "entities": [{"label": "SKILL", "text": "MERN"}, {"label": "SKILL", "text": "MongoDB"}]}
+{"id": "JD_240", "text": "Cloud security engineer with AWS IAM and encryption expertise.", "entities": [{"label": "SKILL", "text": "AWS IAM"}, {"label": "SKILL", "text": "encryption"}]}
+{"id": "JD_241", "text": "UI/UX developer with Figma and CSS-in-JS experience.", "entities": [{"label": "SKILL", "text": "Figma"}, {"label": "SKILL", "text": "CSS-in-JS"}]}
+{"id": "JD_242", "text": "Backend developer with Ruby on Rails and PostgreSQL.", "entities": [{"label": "SKILL", "text": "Ruby on Rails"}, {"label": "SKILL", "text": "PostgreSQL"}]}
+{"id": "JD_243", "text": "Data scientist with Python and TensorFlow for ML models.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "TensorFlow"}]}
+{"id": "JD_244", "text": "DevOps engineer with Jenkins and Ansible automation.", "entities": [{"label": "SKILL", "text": "Jenkins"}, {"label": "SKILL", "text": "Ansible"}]}
+{"id": "JD_245", "text": "Frontend developer with Svelte and Tailwind CSS.", "entities": [{"label": "SKILL", "text": "Svelte"}, {"label": "SKILL", "text": "Tailwind CSS"}]}
+{"id": "JD_246", "text": "Backend engineer with Java and Spring Boot framework.", "entities": [{"label": "SKILL", "text": "Java"}, {"label": "SKILL", "text": "Spring Boot"}]}
+{"id": "JD_247", "text": "Cloud architect with Azure and Kubernetes expertise.", "entities": [{"label": "SKILL", "text": "Azure"}, {"label": "SKILL", "text": "Kubernetes"}]}
+{"id": "JD_248", "text": "Full-stack developer with Django and React.js.", "entities": [{"label": "SKILL", "text": "Django"}, {"label": "SKILL", "text": "React.js"}]}
+{"id": "JD_249", "text": "Data engineer with Apache Kafka and BigQuery.", "entities": [{"label": "SKILL", "text": "Apache Kafka"}, {"label": "SKILL", "text": "BigQuery"}]}
+{"id": "JD_250", "text": "Mobile developer with Kotlin and Android SDK.", "entities": [{"label": "SKILL", "text": "Kotlin"}, {"label": "SKILL", "text": "Android SDK"}]}
+{"id": "JD_251", "text": "Backend engineer with C# and .NET Core.", "entities": [{"label": "SKILL", "text": "C#"}, {"label": "SKILL", "text": ".NET Core"}]}
+{"id": "JD_252", "text": "DevOps specialist with GitLab CI and Helm charts.", "entities": [{"label": "SKILL", "text": "GitLab CI"}, {"label": "SKILL", "text": "Helm"}]}
+{"id": "JD_253", "text": "Frontend engineer with Redux and TypeScript.", "entities": [{"label": "SKILL", "text": "Redux"}, {"label": "SKILL", "text": "TypeScript"}]}
+{"id": "JD_254", "text": "Data analyst with SQL and Tableau for visualization.", "entities": [{"label": "SKILL", "text": "SQL"}, {"label": "SKILL", "text": "Tableau"}]}
+{"id": "JD_255", "text": "Backend developer with Elixir and Phoenix framework.", "entities": [{"label": "SKILL", "text": "Elixir"}, {"label": "SKILL", "text": "Phoenix"}]}
+{"id": "JD_256", "text": "Cloud engineer with Google Cloud and Terraform.", "entities": [{"label": "SKILL", "text": "Google Cloud"}, {"label": "SKILL", "text": "Terraform"}]}
+{"id": "JD_257", "text": "Full-stack developer with Laravel and Vue.js.", "entities": [{"label": "SKILL", "text": "Laravel"}, {"label": "SKILL", "text": "Vue.js"}]}
+{"id": "JD_258", "text": "Data engineer with Snowflake and dbt.", "entities": [{"label": "SKILL", "text": "Snowflake"}, {"label": "SKILL", "text": "dbt"}]}
+{"id": "JD_259", "text": "Mobile developer with Swift and iOS SDK.", "entities": [{"label": "SKILL", "text": "Swift"}, {"label": "SKILL", "text": "iOS SDK"}]}
+{"id": "JD_260", "text": "Backend engineer with Rust and Actix framework.", "entities": [{"label": "SKILL", "text": "Rust"}, {"label": "SKILL", "text": "Actix"}]}
+{"id": "JD_261", "text": "DevOps engineer with Prometheus and Grafana.", "entities": [{"label": "SKILL", "text": "Prometheus"}, {"label": "SKILL", "text": "Grafana"}]}
+{"id": "JD_262", "text": "Frontend developer with Angular and RxJS.", "entities": [{"label": "SKILL", "text": "Angular"}, {"label": "SKILL", "text": "RxJS"}]}
+{"id": "JD_263", "text": "Data scientist with PyTorch and scikit-learn.", "entities": [{"label": "SKILL", "text": "PyTorch"}, {"label": "SKILL", "text": "scikit-learn"}]}
+{"id": "JD_264", "text": "Backend developer with Node.js and Express.js.", "entities": [{"label": "SKILL", "text": "Node.js"}, {"label": "SKILL", "text": "Express.js"}]}
+{"id": "JD_265", "text": "Cloud architect with AWS ECS and Fargate.", "entities": [{"label": "SKILL", "text": "AWS ECS"}, {"label": "SKILL", "text": "Fargate"}]}
+{"id": "JD_266", "text": "Full-stack developer with ASP.NET and Blazor.", "entities": [{"label": "SKILL", "text": "ASP.NET"}, {"label": "SKILL", "text": "Blazor"}]}
+{"id": "JD_267", "text": "Data engineer with Apache Hadoop and Hive.", "entities": [{"label": "SKILL", "text": "Apache Hadoop"}, {"label": "SKILL", "text": "Hive"}]}
+{"id": "JD_268", "text": "Mobile developer with React Native and Expo.", "entities": [{"label": "SKILL", "text": "React Native"}, {"label": "SKILL", "text": "Expo"}]}
+{"id": "JD_269", "text": "Backend engineer with Scala and Akka.", "entities": [{"label": "SKILL", "text": "Scala"}, {"label": "SKILL", "text": "Akka"}]}
+{"id": "JD_270", "text": "DevOps specialist with CircleCI and ArgoCD.", "entities": [{"label": "SKILL", "text": "CircleCI"}, {"label": "SKILL", "text": "ArgoCD"}]}
+{"id": "JD_271", "text": "Frontend engineer with Web Components and Lit.", "entities": [{"label": "SKILL", "text": "Web Components"}, {"label": "SKILL", "text": "Lit"}]}
+{"id": "JD_272", "text": "Data analyst with Python and Pandas.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "Pandas"}]}
+{"id": "JD_273", "text": "Backend developer with PHP and Symfony.", "entities": [{"label": "SKILL", "text": "PHP"}, {"label": "SKILL", "text": "Symfony"}]}
+{"id": "JD_274", "text": "Cloud engineer with AWS S3 and CloudFront.", "entities": [{"label": "SKILL", "text": "AWS S3"}, {"label": "SKILL", "text": "CloudFront"}]}
+{"id": "JD_275", "text": "Full-stack developer with Meteor and MongoDB.", "entities": [{"label": "SKILL", "text": "Meteor"}, {"label": "SKILL", "text": "MongoDB"}]}
+{"id": "JD_276", "text": "Data engineer with Apache Flink and Kafka Streams.", "entities": [{"label": "SKILL", "text": "Apache Flink"}, {"label": "SKILL", "text": "Kafka Streams"}]}
+{"id": "JD_277", "text": "Mobile developer with Xamarin and C#.", "entities": [{"label": "SKILL", "text": "Xamarin"}, {"label": "SKILL", "text": "C#"}]}
+{"id": "JD_278", "text": "Backend engineer with Perl and Mojolicious.", "entities": [{"label": "SKILL", "text": "Perl"}, {"label": "SKILL", "text": "Mojolicious"}]}
+{"id": "JD_279", "text": "DevOps engineer with Spinnaker and Istio.", "entities": [{"label": "SKILL", "text": "Spinnaker"}, {"label": "SKILL", "text": "Istio"}]}
+{"id": "JD_280", "text": "Frontend developer with Ember.js and Handlebars.", "entities": [{"label": "SKILL", "text": "Ember.js"}, {"label": "SKILL", "text": "Handlebars"}]}
+{"id": "JD_281", "text": "Data scientist with R and ggplot2.", "entities": [{"label": "SKILL", "text": "R"}, {"label": "SKILL", "text": "ggplot2"}]}
+{"id": "JD_282", "text": "Backend developer with Haskell and Yesod.", "entities": [{"label": "SKILL", "text": "Haskell"}, {"label": "SKILL", "text": "Yesod"}]}
+{"id": "JD_283", "text": "Cloud architect with AWS RDS and Aurora.", "entities": [{"label": "SKILL", "text": "AWS RDS"}, {"label": "SKILL", "text": "Aurora"}]}
+{"id": "JD_284", "text": "Full-stack developer with Spring and Thymeleaf.", "entities": [{"label": "SKILL", "text": "Spring"}, {"label": "SKILL", "text": "Thymeleaf"}]}
+{"id": "JD_285", "text": "Data engineer with Apache Beam and Dataflow.", "entities": [{"label": "SKILL", "text": "Apache Beam"}, {"label": "SKILL", "text": "Dataflow"}]}
+{"id": "JD_286", "text": "Mobile developer with Ionic and Capacitor.", "entities": [{"label": "SKILL", "text": "Ionic"}, {"label": "SKILL", "text": "Capacitor"}]}
+{"id": "JD_287", "text": "Backend engineer with Clojure and Ring.", "entities": [{"label": "SKILL", "text": "Clojure"}, {"label": "SKILL", "text": "Ring"}]}
+{"id": "JD_288", "text": "DevOps specialist with Drone CI and Flux.", "entities": [{"label": "SKILL", "text": "Drone CI"}, {"label": "SKILL", "text": "Flux"}]}
+{"id": "JD_289", "text": "Frontend engineer with Alpine.js and Tailwind.", "entities": [{"label": "SKILL", "text": "Alpine.js"}, {"label": "SKILL", "text": "Tailwind"}]}
+{"id": "JD_290", "text": "Data analyst with Power BI and DAX.", "entities": [{"label": "SKILL", "text": "Power BI"}, {"label": "SKILL", "text": "DAX"}]}
+{"id": "JD_291", "text": "Backend developer with Groovy and Grails.", "entities": [{"label": "SKILL", "text": "Groovy"}, {"label": "SKILL", "text": "Grails"}]}
+{"id": "JD_292", "text": "Cloud engineer with AWS Lambda and API Gateway.", "entities": [{"label": "SKILL", "text": "AWS Lambda"}, {"label": "SKILL", "text": "API Gateway"}]}
+{"id": "JD_293", "text": "Full-stack developer with Play Framework and Scala.", "entities": [{"label": "SKILL", "text": "Play Framework"}, {"label": "SKILL", "text": "Scala"}]}
+{"id": "JD_294", "text": "Data engineer with Databricks and Delta Lake.", "entities": [{"label": "SKILL", "text": "Databricks"}, {"label": "SKILL", "text": "Delta Lake"}]}
+{"id": "JD_295", "text": "Mobile developer with NativeScript and Angular.", "entities": [{"label": "SKILL", "text": "NativeScript"}, {"label": "SKILL", "text": "Angular"}]}
+{"id": "JD_296", "text": "Backend engineer with F# and Giraffe.", "entities": [{"label": "SKILL", "text": "F#"}, {"label": "SKILL", "text": "Giraffe"}]}
+{"id": "JD_297", "text": "DevOps engineer with Tekton and Knative.", "entities": [{"label": "SKILL", "text": "Tekton"}, {"label": "SKILL", "text": "Knative"}]}
+{"id": "JD_298", "text": "Frontend developer with Stencil and Web Components.", "entities": [{"label": "SKILL", "text": "Stencil"}, {"label": "SKILL", "text": "Web Components"}]}
+{"id":"JD_299","text":"Seeking a Python developer with experience in Django and REST APIs.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"REST APIs"}]}
+{"id":"JD_300","text":"Full-stack engineer proficient in React, Node.js, and MongoDB.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_301","text":"Backend developer with expertise in Flask and PostgreSQL.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"PostgreSQL"}]}
+{"id":"JD_302","text":"Cloud engineer skilled in AWS and Kubernetes.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Kubernetes"}]}
+{"id":"JD_303","text":"Frontend developer specializing in Angular and TypeScript.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"TypeScript"}]}
+{"id":"JD_304","text":"DevOps engineer with Docker and CI/CD pipeline experience.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"CI/CD pipeline"}]}
+{"id":"JD_305","text":"Data engineer proficient in SQL and NoSQL databases.","entities":[{"label":"SKILL","text":"SQL"},{"label":"SKILL","text":"NoSQL"}]}
+{"id":"JD_306","text":"Python developer with knowledge of machine learning frameworks.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"machine learning"}]}
+{"id":"JD_307","text":"Full-stack developer skilled in JavaScript and React.","entities":[{"label":"SKILL","text":"JavaScript"},{"label":"SKILL","text":"React"}]}
+{"id":"JD_308","text":"Backend engineer with experience in Node.js and AWS Lambda.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"AWS Lambda"}]}
+{"id":"JD_309","text":"Frontend developer with expertise in Vue.js and CSS.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"CSS"}]}
+{"id":"JD_310","text":"Cloud architect with AWS and Terraform skills.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Terraform"}]}
+{"id":"JD_311","text":"DevOps specialist with Kubernetes and Jenkins experience.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Jenkins"}]}
+{"id":"JD_312","text":"Data scientist proficient in Python and pandas.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"pandas"}]}
+{"id":"JD_313","text":"Backend developer with Django and PostgreSQL expertise.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"PostgreSQL"}]}
+{"id":"JD_314","text":"Full-stack engineer skilled in React and GraphQL.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"GraphQL"}]}
+{"id":"JD_315","text":"Frontend developer with Angular and RxJS experience.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"RxJS"}]}
+{"id":"JD_316","text":"Cloud engineer with AWS and Docker expertise.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Docker"}]}
+{"id":"JD_317","text":"DevOps engineer skilled in Ansible and Kubernetes.","entities":[{"label":"SKILL","text":"Ansible"},{"label":"SKILL","text":"Kubernetes"}]}
+{"id":"JD_318","text":"Data analyst proficient in SQL and Tableau.","entities":[{"label":"SKILL","text":"SQL"},{"label":"SKILL","text":"Tableau"}]}
+{"id":"JD_319","text":"Python developer with Flask and REST API experience.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"REST API"}]}
+{"id":"JD_320","text":"Full-stack developer with Node.js and MongoDB skills.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_321","text":"Backend engineer specializing in Django and AWS.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"AWS"}]}
+{"id":"JD_322","text":"Frontend developer with React and Redux expertise.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Redux"}]}
+{"id":"JD_323","text":"Cloud specialist with Azure and Kubernetes experience.","entities":[{"label":"SKILL","text":"Azure"},{"label":"SKILL","text":"Kubernetes"}]}
+{"id":"JD_324","text":"DevOps engineer with Docker and AWS ECS skills.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"AWS ECS"}]}
+{"id":"JD_325","text":"Data engineer proficient in Python and Spark.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Spark"}]}
+{"id":"JD_326","text":"Backend developer with Node.js and PostgreSQL.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"PostgreSQL"}]}
+{"id":"JD_327","text":"Full-stack engineer skilled in Angular and Firebase.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"Firebase"}]}
+{"id":"JD_328","text":"Frontend developer with TypeScript and Sass experience.","entities":[{"label":"SKILL","text":"TypeScript"},{"label":"SKILL","text":"Sass"}]}
+{"id":"JD_329","text":"Cloud architect with AWS and Serverless expertise.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Serverless"}]}
+{"id":"JD_330","text":"DevOps specialist with Kubernetes and Helm.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Helm"}]}
+{"id":"JD_331","text":"Data scientist with Python and TensorFlow skills.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"TensorFlow"}]}
+{"id":"JD_332","text":"Backend developer with Flask and MySQL experience.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"MySQL"}]}
+{"id":"JD_333","text":"Full-stack engineer proficient in React and Node.js.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Node.js"}]}
+{"id":"JD_334","text":"Frontend developer with Vue.js and Vuetify.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"Vuetify"}]}
+{"id":"JD_335","text":"Cloud engineer with GCP and Kubernetes expertise.","entities":[{"label":"SKILL","text":"GCP"},{"label":"SKILL","text":"Kubernetes"}]}
+{"id":"JD_336","text":"DevOps engineer skilled in Docker and GitLab CI.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"GitLab CI"}]}
+{"id":"JD_337","text":"Data analyst with SQL and Power BI experience.","entities":[{"label":"SKILL","text":"SQL"},{"label":"SKILL","text":"Power BI"}]}
+{"id":"JD_338","text":"Python developer with Django and Celery.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"Celery"}]}
+{"id":"JD_339","text":"Full-stack developer with JavaScript and Express.js.","entities":[{"label":"SKILL","text":"JavaScript"},{"label":"SKILL","text":"Express.js"}]}
+{"id":"JD_340","text":"Backend engineer with AWS Lambda and DynamoDB.","entities":[{"label":"SKILL","text":"AWS Lambda"},{"label":"SKILL","text":"DynamoDB"}]}
+{"id":"JD_341","text":"Frontend developer with React and Material-UI.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Material-UI"}]}
+{"id":"JD_342","text":"Cloud specialist with AWS and Terraform.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Terraform"}]}
+{"id":"JD_343","text":"DevOps engineer with Kubernetes and Prometheus.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Prometheus"}]}
+{"id":"JD_344","text":"Data engineer with Python and Airflow.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Airflow"}]}
+{"id":"JD_345","text":"Backend developer with Node.js and Redis.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"Redis"}]}
+{"id":"JD_346","text":"Full-stack engineer with Angular and NgRx.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"NgRx"}]}
+{"id":"JD_347","text":"Frontend developer with TypeScript and Webpack.","entities":[{"label":"SKILL","text":"TypeScript"},{"label":"SKILL","text":"Webpack"}]}
+{"id":"JD_348","text":"Cloud architect with AWS and CloudFormation.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"CloudFormation"}]}
+{"id":"JD_349","text":"DevOps specialist with Docker and Ansible.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"Ansible"}]}
+{"id":"JD_350","text":"Data scientist with Python and Scikit-learn.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Scikit-learn"}]}
+{"id":"JD_351","text":"Backend developer with Flask and SQLAlchemy.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"SQLAlchemy"}]}
+{"id":"JD_352","text":"Full-stack engineer with React and Next.js.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Next.js"}]}
+{"id":"JD_353","text":"Frontend developer with Vue.js and Pinia.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"Pinia"}]}
+{"id":"JD_354","text":"Cloud engineer with AWS and EKS.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"EKS"}]}
+{"id":"JD_355","text":"DevOps engineer with Kubernetes and Istio.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Istio"}]}
+{"id":"JD_356","text":"Data analyst with SQL and Looker.","entities":[{"label":"SKILL","text":"SQL"},{"label":"SKILL","text":"Looker"}]}
+{"id":"JD_357","text":"Python developer with Django and DRF.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"DRF"}]}
+{"id":"JD_358","text":"Full-stack developer with JavaScript and NestJS.","entities":[{"label":"SKILL","text":"JavaScript"},{"label":"SKILL","text":"NestJS"}]}
+{"id":"JD_359","text":"Backend engineer with AWS S3 and RDS.","entities":[{"label":"SKILL","text":"AWS S3"},{"label":"SKILL","text":"RDS"}]}
+{"id":"JD_360","text":"Frontend developer with React and Chakra UI.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Chakra UI"}]}
+{"id":"JD_361","text":"Cloud specialist with AWS and CDK.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"CDK"}]}
+{"id":"JD_362","text":"DevOps engineer with Kubernetes and ArgoCD.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"ArgoCD"}]}
+{"id":"JD_363","text":"Data engineer with Python and Dask.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Dask"}]}
+{"id":"JD_364","text":"Backend developer with Node.js and TypeORM.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"TypeORM"}]}
+{"id":"JD_365","text":"Full-stack engineer with Angular and RxJS.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"RxJS"}]}
+{"id":"JD_366","text":"Frontend developer with TypeScript and Tailwind CSS.","entities":[{"label":"SKILL","text":"TypeScript"},{"label":"SKILL","text":"Tailwind CSS"}]}
+{"id":"JD_367","text":"Cloud architect with AWS and SQS.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"SQS"}]}
+{"id":"JD_368","text":"DevOps specialist with Docker and GitHub Actions.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"GitHub Actions"}]}
+{"id":"JD_369","text":"Data scientist with Python and PyTorch.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"PyTorch"}]}
+{"id":"JD_370","text":"Backend developer with Flask and Marshmallow.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"Marshmallow"}]}
+{"id":"JD_371","text":"Full-stack engineer with React and GraphQL.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"GraphQL"}]}
+{"id":"JD_372","text":"Frontend developer with Vue.js and Vuex.","entities":[{"label":"SKILL","text":"Vue.js"},{"label":"SKILL","text":"Vuex"}]}
+{"id":"JD_373","text":"Cloud engineer with AWS and Lambda.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Lambda"}]}
+{"id":"JD_374","text":"DevOps engineer with Kubernetes and Fluentd.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Fluentd"}]}
+{"id":"JD_375","text":"Data analyst with SQL and Metabase.","entities":[{"label":"SKILL","text":"SQL"},{"label":"SKILL","text":"Metabase"}]}
+{"id":"JD_376","text":"Python developer with Django and Channels.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"Channels"}]}
+{"id":"JD_377","text":"Full-stack developer with JavaScript and Fastify.","entities":[{"label":"SKILL","text":"JavaScript"},{"label":"SKILL","text":"Fastify"}]}
+{"id":"JD_378","text":"Backend engineer with AWS SQS and SNS.","entities":[{"label":"SKILL","text":"AWS SQS"},{"label":"SKILL","text":"SNS"}]}
+{"id":"JD_379","text":"Frontend developer with React and Styled Components.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Styled Components"}]}
+{"id":"JD_380","text":"Cloud specialist with AWS and API Gateway.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"API Gateway"}]}
+{"id":"JD_381","text":"Seeking a Python developer with experience in Django and REST APIs.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"REST APIs"}]}
+{"id":"JD_382","text":"Full-stack engineer proficient in React, Node.js, and MongoDB.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_383","text":"Backend developer with expertise in Flask and SQL databases.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"SQL"}]}
+{"id":"JD_384","text":"DevOps engineer skilled in AWS, Docker, and Kubernetes.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"Kubernetes"}]}
+{"id":"JD_385","text":"Frontend developer specializing in Angular and TypeScript.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"TypeScript"}]}
+{"id":"JD_386","text":"Python developer with NoSQL database experience.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"NoSQL"}]}
+{"id":"JD_387","text":"Full-stack developer proficient in JavaScript and React.","entities":[{"label":"SKILL","text":"JavaScript"},{"label":"SKILL","text":"React"}]}
+{"id":"JD_388","text":"Backend engineer with Django and PostgreSQL skills.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"PostgreSQL"}]}
+{"id":"JD_389","text":"Cloud engineer experienced in AWS and serverless architectures.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"serverless"}]}
+{"id":"JD_390","text":"Frontend developer with React and Redux expertise.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Redux"}]}
+{"id":"JD_391","text":"Python developer skilled in data analysis and Flask.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Flask"}]}
+{"id":"JD_392","text":"DevOps specialist with Docker and CI/CD pipeline experience.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"CI/CD"}]}
+{"id":"JD_393","text":"Full-stack engineer proficient in Node.js and MongoDB.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_394","text":"Backend developer with REST API and SQL expertise.","entities":[{"label":"SKILL","text":"REST API"},{"label":"SKILL","text":"SQL"}]}
+{"id":"JD_395","text":"Frontend developer with Angular and TypeScript skills.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"TypeScript"}]}
+{"id":"JD_396","text":"Python developer experienced in Django and AWS.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"AWS"}]}
+{"id":"JD_397","text":"DevOps engineer with Kubernetes and Terraform knowledge.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Terraform"}]}
+{"id":"JD_398","text":"Full-stack developer skilled in React and Node.js.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Node.js"}]}
+{"id":"JD_399","text":"Backend engineer with Flask and NoSQL experience.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"NoSQL"}]}
+{"id":"JD_400","text":"Cloud architect proficient in AWS and microservices.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"microservices"}]}
+{"id":"JD_401","text":"Frontend developer with React and GraphQL expertise.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"GraphQL"}]}
+{"id":"JD_402","text":"Python developer skilled in data science and Django.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"}]}
+{"id":"JD_403","text":"DevOps engineer with Docker and Jenkins experience.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"Jenkins"}]}
+{"id":"JD_404","text":"Full-stack engineer proficient in JavaScript and MongoDB.","entities":[{"label":"SKILL","text":"JavaScript"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_405","text":"Backend developer with RESTful APIs and PostgreSQL.","entities":[{"label":"SKILL","text":"RESTful APIs"},{"label":"SKILL","text":"PostgreSQL"}]}
+{"id":"JD_406","text":"Frontend developer with Angular and RxJS skills.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"RxJS"}]}
+{"id":"JD_407","text":"Python developer experienced in Flask and AWS Lambda.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"AWS Lambda"}]}
+{"id":"JD_408","text":"DevOps specialist with Kubernetes and Helm knowledge.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Helm"}]}
+{"id":"JD_409","text":"Full-stack developer skilled in React and Express.js.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Express.js"}]}
+{"id":"JD_410","text":"Backend engineer with Django and MySQL expertise.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"MySQL"}]}
+{"id":"JD_411","text":"Cloud engineer experienced in AWS and serverless.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"serverless"}]}
+{"id":"JD_412","text":"Frontend developer with React and TypeScript skills.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"TypeScript"}]}
+{"id":"JD_413","text":"Python developer skilled in web scraping and Flask.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Flask"}]}
+{"id":"JD_414","text":"DevOps engineer with Docker and Ansible experience.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"Ansible"}]}
+{"id":"JD_415","text":"Full-stack engineer proficient in Node.js and SQL.","entities":[{"label":"SKILL","text":"Node.js"},{"label":"SKILL","text":"SQL"}]}
+{"id":"JD_416","text":"Backend developer with GraphQL and PostgreSQL.","entities":[{"label":"SKILL","text":"GraphQL"},{"label":"SKILL","text":"PostgreSQL"}]}
+{"id":"JD_417","text":"Frontend developer with Angular and NgRx expertise.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"NgRx"}]}
+{"id":"JD_418","text":"Python developer experienced in Django and REST.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"REST"}]}
+{"id":"JD_419","text":"DevOps specialist with Kubernetes and Prometheus.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Prometheus"}]}
+{"id":"JD_420","text":"Full-stack developer skilled in React and MongoDB.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_421","text":"Backend engineer with Flask and Redis experience.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"Redis"}]}
+{"id":"JD_422","text":"Cloud architect proficient in AWS and Docker.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Docker"}]}
+{"id":"JD_423","text":"Frontend developer with React and Redux Toolkit.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Redux Toolkit"}]}
+{"id":"JD_424","text":"Python developer skilled in automation and Django.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"}]}
+{"id":"JD_425","text":"DevOps engineer with CI/CD and Terraform.","entities":[{"label":"SKILL","text":"CI/CD"},{"label":"SKILL","text":"Terraform"}]}
+{"id":"JD_426","text":"Full-stack engineer proficient in JavaScript and SQL.","entities":[{"label":"SKILL","text":"JavaScript"},{"label":"SKILL","text":"SQL"}]}
+{"id":"JD_427","text":"Backend developer with REST APIs and MySQL.","entities":[{"label":"SKILL","text":"REST APIs"},{"label":"SKILL","text":"MySQL"}]}
+{"id":"JD_428","text":"Frontend developer with Angular and SCSS skills.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"SCSS"}]}
+{"id":"JD_429","text":"Python developer experienced in Flask and AWS S3.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"AWS S3"}]}
+{"id":"JD_430","text":"DevOps specialist with Kubernetes and Istio.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Istio"}]}
+{"id":"JD_431","text":"Full-stack developer skilled in React and Node.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Node"}]}
+{"id":"JD_432","text":"Backend engineer with Django and GraphQL.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"GraphQL"}]}
+{"id":"JD_433","text":"Cloud engineer experienced in AWS and Lambda.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Lambda"}]}
+{"id":"JD_434","text":"Frontend developer with React and Jest.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Jest"}]}
+{"id":"JD_435","text":"Python developer skilled in APIs and Flask.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Flask"}]}
+{"id":"JD_436","text":"DevOps engineer with Docker and GitLab CI.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"GitLab CI"}]}
+{"id":"JD_437","text":"Full-stack engineer proficient in Node and MongoDB.","entities":[{"label":"SKILL","text":"Node"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_438","text":"Backend developer with REST and PostgreSQL.","entities":[{"label":"SKILL","text":"REST"},{"label":"SKILL","text":"PostgreSQL"}]}
+{"id":"JD_439","text":"Frontend developer with Angular and Material UI.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"Material UI"}]}
+{"id":"JD_440","text":"Python developer experienced in Django and AWS.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"AWS"}]}
+{"id":"JD_441","text":"DevOps specialist with Kubernetes and ArgoCD.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"ArgoCD"}]}
+{"id":"JD_442","text":"Full-stack developer skilled in React and Express.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Express"}]}
+{"id":"JD_443","text":"Backend engineer with Flask and DynamoDB.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"DynamoDB"}]}
+{"id":"JD_444","text":"Cloud architect proficient in AWS and ECS.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"ECS"}]}
+{"id":"JD_445","text":"Frontend developer with React and Next.js.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Next.js"}]}
+{"id":"JD_446","text":"Python developer skilled in ML and Django.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"}]}
+{"id":"JD_447","text":"DevOps engineer with CI/CD and Ansible.","entities":[{"label":"SKILL","text":"CI/CD"},{"label":"SKILL","text":"Ansible"}]}
+{"id":"JD_448","text":"Full-stack engineer proficient in JS and SQL.","entities":[{"label":"SKILL","text":"JS"},{"label":"SKILL","text":"SQL"}]}
+{"id":"JD_449","text":"Backend developer with APIs and MySQL.","entities":[{"label":"SKILL","text":"APIs"},{"label":"SKILL","text":"MySQL"}]}
+{"id":"JD_450","text":"Frontend developer with Angular and Tailwind.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"Tailwind"}]}
+{"id":"JD_451","text":"Python developer experienced in Flask and S3.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"S3"}]}
+{"id":"JD_452","text":"DevOps specialist with Kubernetes and Helm.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Helm"}]}
+{"id":"JD_453","text":"Full-stack developer skilled in React and Node.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Node"}]}
+{"id":"JD_454","text":"Backend engineer with Django and GraphQL.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"GraphQL"}]}
+{"id":"JD_455","text":"Cloud engineer experienced in AWS and Lambda.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Lambda"}]}
+{"id":"JD_456","text":"Frontend developer with React and Jest.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Jest"}]}
+{"id":"JD_457","text":"Python developer skilled in APIs and Flask.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Flask"}]}
+{"id":"JD_458","text":"DevOps engineer with Docker and GitLab CI.","entities":[{"label":"SKILL","text":"Docker"},{"label":"SKILL","text":"GitLab CI"}]}
+{"id":"JD_459","text":"Full-stack engineer proficient in Node and MongoDB.","entities":[{"label":"SKILL","text":"Node"},{"label":"SKILL","text":"MongoDB"}]}
+{"id":"JD_460","text":"Backend developer with REST and PostgreSQL.","entities":[{"label":"SKILL","text":"REST"},{"label":"SKILL","text":"PostgreSQL"}]}
+{"id":"JD_461","text":"Frontend developer with Angular and Material UI.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"Material UI"}]}
+{"id":"JD_462","text":"Python developer experienced in Django and AWS.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"AWS"}]}
+{"id":"JD_463","text":"DevOps specialist with Kubernetes and ArgoCD.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"ArgoCD"}]}
+{"id":"JD_464","text":"Full-stack developer skilled in React and Express.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Express"}]}
+{"id":"JD_465","text":"Backend engineer with Flask and DynamoDB.","entities":[{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"DynamoDB"}]}
+{"id":"JD_466","text":"Cloud architect proficient in AWS and ECS.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"ECS"}]}
+{"id":"JD_467","text":"Frontend developer with React and Next.js.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Next.js"}]}
+{"id":"JD_468","text":"Python developer skilled in ML and Django.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Django"}]}
+{"id":"JD_469","text":"DevOps engineer with CI/CD and Ansible.","entities":[{"label":"SKILL","text":"CI/CD"},{"label":"SKILL","text":"Ansible"}]}
+{"id":"JD_470","text":"Full-stack engineer proficient in JS and SQL.","entities":[{"label":"SKILL","text":"JS"},{"label":"SKILL","text":"SQL"}]}
+{"id":"JD_471","text":"Backend developer with APIs and MySQL.","entities":[{"label":"SKILL","text":"APIs"},{"label":"SKILL","text":"MySQL"}]}
+{"id":"JD_472","text":"Frontend developer with Angular and Tailwind.","entities":[{"label":"SKILL","text":"Angular"},{"label":"SKILL","text":"Tailwind"}]}
+{"id":"JD_473","text":"Python developer experienced in Flask and S3.","entities":[{"label":"SKILL","text":"Python"},{"label":"SKILL","text":"Flask"},{"label":"SKILL","text":"S3"}]}
+{"id":"JD_474","text":"DevOps specialist with Kubernetes and Helm.","entities":[{"label":"SKILL","text":"Kubernetes"},{"label":"SKILL","text":"Helm"}]}
+{"id":"JD_475","text":"Full-stack developer skilled in React and Node.","entities":[{"label":"SKILL","text":"React"},{"label":"SKILL","text":"Node"}]}
+{"id":"JD_476","text":"Backend engineer with Django and GraphQL.","entities":[{"label":"SKILL","text":"Django"},{"label":"SKILL","text":"GraphQL"}]}
+{"id":"JD_477","text":"Cloud engineer experienced in AWS and Lambda.","entities":[{"label":"SKILL","text":"AWS"},{"label":"SKILL","text":"Lambda"}]}
+{"id": "JD_478", "text": "Seeking a Python developer with Django experience to build scalable web applications.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "Django"}]}
+{"id": "JD_479", "text": "Full-stack engineer needed proficient in JavaScript, React, and Node.js for frontend and backend development.", "entities": [{"label": "SKILL", "text": "JavaScript"}, {"label": "SKILL", "text": "React"}, {"label": "SKILL", "text": "Node.js"}]}
+{"id": "JD_480", "text": "Cloud architect with AWS and Kubernetes expertise to design and deploy microservices.", "entities": [{"label": "SKILL", "text": "AWS"}, {"label": "SKILL", "text": "Kubernetes"}]}
+{"id": "JD_481", "text": "Backend developer skilled in Python and Flask to create RESTful APIs.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "Flask"}]}
+{"id": "JD_482", "text": "Frontend developer proficient in TypeScript and Angular to build dynamic user interfaces.", "entities": [{"label": "SKILL", "text": "TypeScript"}, {"label": "SKILL", "text": "Angular"}]}
+{"id": "JD_483", "text": "DevOps engineer with Docker and CI/CD pipeline experience to streamline deployments.", "entities": [{"label": "SKILL", "text": "Docker"}, {"label": "SKILL", "text": "CI/CD"}]}
+{"id": "JD_484", "text": "Database specialist skilled in SQL and NoSQL for optimizing data storage solutions.", "entities": [{"label": "SKILL", "text": "SQL"}, {"label": "SKILL", "text": "NoSQL"}]}
+{"id": "JD_485", "text": "Software engineer with React and Redux expertise to develop responsive web applications.", "entities": [{"label": "SKILL", "text": "React"}, {"label": "SKILL", "text": "Redux"}]}
+{"id": "JD_486", "text": "Backend developer experienced in Node.js and MongoDB to build high-performance APIs.", "entities": [{"label": "SKILL", "text": "Node.js"}, {"label": "SKILL", "text": "MongoDB"}]}
+{"id": "JD_487", "text": "Cloud engineer proficient in AWS and Terraform for infrastructure automation.", "entities": [{"label": "SKILL", "text": "AWS"}, {"label": "SKILL", "text": "Terraform"}]}
+{"id": "JD_488", "text": "Full-stack developer skilled in Python, Django, and React for end-to-end application development.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "Django"}, {"label": "SKILL", "text": "React"}]}
+{"id": "JD_489", "text": "Frontend engineer with Vue.js and TypeScript experience to create interactive UIs.", "entities": [{"label": "SKILL", "text": "Vue.js"}, {"label": "SKILL", "text": "TypeScript"}]}
+{"id": "JD_490", "text": "DevOps specialist with Kubernetes and Helm knowledge to manage containerized applications.", "entities": [{"label": "SKILL", "text": "Kubernetes"}, {"label": "SKILL", "text": "Helm"}]}
+{"id": "JD_491", "text": "Backend developer proficient in Java and Spring Boot for enterprise applications.", "entities": [{"label": "SKILL", "text": "Java"}, {"label": "SKILL", "text": "Spring Boot"}]}
+{"id": "JD_492", "text": "Data engineer skilled in Python and SQL to design efficient ETL pipelines.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "SQL"}]}
+{"id": "JD_493", "text": "Full-stack developer with expertise in JavaScript, React, and Node.js for scalable applications.", "entities": [{"label": "SKILL", "text": "JavaScript"}, {"label": "SKILL", "text": "React"}, {"label": "SKILL", "text": "Node.js"}]}
+{"id": "JD_494", "text": "Cloud solutions architect with AWS and Docker experience to optimize deployments.", "entities": [{"label": "SKILL", "text": "AWS"}, {"label": "SKILL", "text": "Docker"}]}
+{"id": "JD_495", "text": "Frontend developer skilled in Angular and RxJS to build reactive applications.", "entities": [{"label": "SKILL", "text": "Angular"}, {"label": "SKILL", "text": "RxJS"}]}
+{"id": "JD_496", "text": "Backend engineer proficient in Go and PostgreSQL for high-performance systems.", "entities": [{"label": "SKILL", "text": "Go"}, {"label": "SKILL", "text": "PostgreSQL"}]}
+{"id": "JD_497", "text": "DevOps engineer with Jenkins and Ansible expertise to automate workflows.", "entities": [{"label": "SKILL", "text": "Jenkins"}, {"label": "SKILL", "text": "Ansible"}]}
+{"id": "JD_498", "text": "Full-stack developer experienced in Ruby on Rails and React for web applications.", "entities": [{"label": "SKILL", "text": "Ruby on Rails"}, {"label": "SKILL", "text": "React"}]}
+{"id": "JD_499", "text": "Data scientist with Python and TensorFlow skills to develop machine learning models.", "entities": [{"label": "SKILL", "text": "Python"}, {"label": "SKILL", "text": "TensorFlow"}]}
