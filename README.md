@@ -81,9 +81,3 @@ Open the `finetune_ner.ipynb` notebook to train a model using 🤗 Transformers 
 - **Duplicates / Overlaps**: `add_offsets.py` ensures entity spans don’t overlap.
 - **Resumable generation**: `generate_jobs.py` supports resuming based on existing line counts.
 - **LFS note**: If files are large, consider using [Git LFS](https://git-lfs.github.com/).
-
----
-
-## 🧠 Authors & License
-
-MIT License. Created by [Your Name or Org].
