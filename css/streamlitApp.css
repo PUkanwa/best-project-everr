@@ -1,0 +1,513 @@
+.stApp {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: #0e1117;
+  color: #e0e0e0;
+  line-height: 1.6;
+  padding: 0;
+}
+
+.stApp blockquote {
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  background: none !important;
+  quotes: none !important;
+}
+
+.stApp blockquote:before,
+.stApp blockquote:after {
+  content: none !important;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #4285f4;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #a0a0a0;
+  margin-top: 0.5rem;
+  margin-bottom: 3rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #f0f0f0;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #e0e0e0;
+  margin-top: 1rem;
+  margin-bottom: 0.8rem;
+}
+
+h5 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #cccccc;
+  margin-top: 0.8rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+  color: #e0e0e0;
+}
+
+hr {
+  margin: 2.5rem 0;
+  border: 0;
+  height: 1px;
+  background-color: #2a323e;
+}
+
+div[data-testid="stButton"] > button {
+  background-color: #4285f4;
+  color: white;
+  font-weight: 500;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.2);
+  font-size: 1rem;
+  margin-top: 1rem;
+}
+
+div[data-testid="stButton"] > button:hover {
+  background-color: #357ae8;
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.3);
+  transform: translateY(-1px);
+}
+
+div[data-testid="stButton"] > button:active {
+  transform: translateY(0);
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.2);
+}
+
+div[data-testid="stTextInput"] label,
+div[data-testid="stTextArea"] label {
+  font-weight: 500;
+  color: #cccccc;
+  margin-bottom: 8px;
+  font-size: 1rem;
+  display: block;
+}
+
+div[data-testid="stTextInput"] > div:first-of-type,
+div[data-testid="stTextArea"] > div:first-of-type {
+  border: 1px solid #3a3f47;
+  border-radius: 8px;
+  background-color: #1c1f26;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out,
+    background-color 0.15s ease-in-out;
+}
+
+div[data-testid="stTextInput"] input[type="text"],
+div[data-testid="stTextArea"] textarea {
+  padding: 10px 15px;
+  color: #e0e0e0;
+  background-color: transparent !important;
+  border: none !important;
+  outline: none !important;
+  width: 100%;
+  box-sizing: border-box;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+div[data-testid="stTextInput"]
+  > div:first-of-type:has(input[type="text"]:focus),
+div[data-testid="stTextArea"] > div:first-of-type:has(textarea:focus) {
+  border-color: #4285f4;
+  box-shadow: 0 0 0 3px rgba(66, 133, 244, 0.3),
+    inset 0 1px 2px rgba(0, 0, 0, 0.2);
+  background-color: #262a33;
+}
+
+div[data-testid="stRadio"] > label {
+  font-weight: 500;
+  color: #f0f0f0;
+  margin-bottom: 8px;
+  font-size: 1rem;
+}
+
+div[data-testid="stRadio"] > div {
+  margin: 10px 0;
+}
+
+div[data-testid="stRadio"] label {
+  font-weight: 400;
+  color: #e0e0e0;
+  padding: 4px 0;
+}
+
+div[data-testid="stSlider"] > label {
+  font-weight: 500;
+  color: #f0f0f0;
+  margin-bottom: 12px;
+  font-size: 1rem;
+}
+
+div[data-testid="stSlider"] [data-baseweb="slider"] {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+div[data-testid="stSlider"] [data-baseweb="slider"] div[role="slider"] {
+  background-color: #4285f4;
+  border-color: #4285f4;
+  box-shadow: 0 2px 4px rgba(66, 133, 244, 0.4);
+  width: 18px;
+  height: 18px;
+  margin-top: -5px;
+}
+
+div[data-testid="stSlider"]
+  [data-baseweb="slider"]
+  div[data-testid="stTickBar"] {
+  background-color: #3a3f47;
+  height: 6px;
+  border-radius: 3px;
+}
+
+div[data-testid="stSlider"]
+  [data-baseweb="slider"]
+  div[data-testid="stTickBar"]
+  > div {
+  background-color: #4285f4;
+  border-radius: 3px;
+}
+
+div[data-testid="stCheckbox"] label {
+  font-weight: 400;
+  color: #e0e0e0;
+  margin-bottom: 5px;
+}
+
+div[data-testid="stCheckbox"] [data-baseweb="checkbox"] {
+  margin-bottom: 5px;
+}
+
+div[data-testid="stProgress"] > div {
+  margin: 1rem 0;
+  background-color: #3a3f47;
+  border-radius: 4px;
+  overflow: hidden;
+  height: 8px;
+}
+
+div[data-testid="stProgress"] > div > div {
+  background-color: #4285f4;
+  height: 100%;
+  transition: width 0.3s ease;
+}
+
+div[data-testid="stAlert"] p {
+  margin-bottom: 0;
+  color: inherit;
+}
+
+div[data-testid="stAlert"].stAlert-info {
+  background-color: #1a3d63;
+  border-left-color: #64b5f6;
+  color: #bbdefb;
+}
+
+div[data-testid="stAlert"].stAlert-success {
+  background-color: #2e7d32;
+  border-left-color: #81c784;
+  color: #c8e6c9;
+}
+
+div[data-testid="stAlert"].stAlert-warning {
+  background-color: #f9a825;
+  border-left-color: #ffee58;
+  color: #fff9c4;
+}
+
+div[data-testid="stAlert"].stAlert-error {
+  background-color: #c62828;
+  border-left-color: #ef5350;
+  color: #ffcdd2;
+}
+
+.stTabs [data-baseweb="tab-list"] {
+  gap: 12px;
+  border-bottom: 1px solid #2a323e;
+  padding-bottom: 0;
+}
+
+.stTabs [data-baseweb="tab"] {
+  height: auto;
+  white-space: pre-wrap;
+  background-color: transparent;
+  border-radius: 6px 6px 0 0;
+  padding: 10px 15px;
+  border: 1px solid transparent;
+  border-bottom: none;
+  color: #a0a0a0;
+  transition: background-color 0.2s ease, color 0.2s ease,
+    border-color 0.2s ease;
+  margin-bottom: -1px;
+}
+.stTabs [data-baseweb="tab"]:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+  color: #e0e0e0;
+}
+
+.stTabs [aria-selected="true"] {
+  background-color: #1c1f26;
+  color: #4285f4;
+  border-color: #2a323e;
+  border-bottom-color: #1c1f26;
+  font-weight: 600;
+}
+
+.stTabs [data-baseweb="tab-content"] {
+  padding: 20px;
+  border: 1px solid #2a323e;
+  border-top: none;
+  border-radius: 0 0 8px 8px;
+  background-color: #1c1f26;
+}
+
+.skill-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0 2rem 0;
+  padding-left: 0;
+}
+
+.skill-chip {
+  background-color: #2a323e;
+  color: #e0e0e0;
+  border-radius: 20px;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  cursor: default;
+}
+
+.skill-chip:hover {
+  background-color: #3a3f47;
+  transform: translateY(-1px);
+}
+
+.skill-chip.matched {
+  background-color: #1c1f26;
+  border: 1px solid #4285f4;
+  color: #bbdefb;
+}
+
+.skill-chip.has-resources {
+  background-color: #4285f4;
+  color: white;
+  font-weight: 600;
+}
+
+.card-base {
+  background-color: #1c1f26;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 25px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease,
+    background-color 0.2s ease;
+}
+.card-base:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  background-color: #262a33;
+}
+
+.results-section-card {
+  background-color: rgba(49, 51, 63, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 25px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.results-section-card h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding-bottom: 8px;
+  color: #f0f0f0;
+}
+
+.course-card {
+  background-color: rgba(49, 51, 63, 0.7);
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-left: 4px solid #4285f4;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  color: #e0e0e0;
+}
+.course-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+.course-card .course-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: white;
+}
+.course-card .provider-badge {
+  background-color: #34a853;
+  color: white;
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.course-card .rating-stars {
+  color: gold;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+.course-card .skill-tag {
+  background-color: #4285f4;
+  color: white;
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+.course-card .course-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+  color: #bbbbbb;
+  font-size: 0.9rem;
+}
+.course-card .view-course-btn {
+  background-color: #4caf50;
+  color: white !important;
+  padding: 6px 12px;
+  border-radius: 4px;
+  text-decoration: none !important;
+  font-size: 0.9rem;
+  transition: background-color 0.3s;
+  display: inline-block;
+  margin-right: 10px;
+}
+.course-card .view-course-btn:hover {
+  background-color: #45a049;
+}
+.course-card .add-journey-btn {
+  color: #4285f4;
+  text-decoration: none;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+.course-card .add-journey-btn:hover {
+  text-decoration: underline;
+}
+
+.badge-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+.badge {
+  border-radius: 16px;
+  padding: 4px 12px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  display: inline-block;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.highly-rated-badge {
+  background-color: #ffd700;
+  color: #333333;
+}
+.beginner-badge {
+  background-color: rgba(40, 167, 69, 0.2);
+  color: #81c784;
+  border: 1px solid #81c784;
+}
+.intermediate-badge {
+  background-color: rgba(66, 133, 244, 0.2);
+  color: #64b5f6;
+  border: 1px solid #64b5f6;
+}
+.advanced-badge {
+  background-color: rgba(255, 111, 0, 0.2);
+  color: #ffab40;
+  border: 1px solid #ffab40;
+}
+.expert-badge {
+  background-color: rgba(220, 53, 69, 0.2);
+  color: #ef5350;
+  border: 1px solid #ef5350;
+}
+
+.filter-section {
+  background-color: rgba(49, 51, 63, 0.4);
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.page-info {
+  margin: 0 15px;
+  padding-top: 0;
+  color: #bbbbbb;
+}
+.page-btn {
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+.page-btn:hover:not(:disabled) {
+  background-color: #357ae8;
+}
+.page-btn:disabled {
+  background-color: #444;
+  color: #888;
+  cursor: not-allowed;
+}
+
+.footer {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #2a323e;
+  color: #a0a0a0;
+  font-size: 0.9rem;
+  text-align: center;
+}

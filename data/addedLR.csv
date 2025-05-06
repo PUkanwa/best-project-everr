@@ -1,0 +1,32 @@
+﻿#,Title,Organization,Skills,Ratings,Review counts,Metadata
+0,Complete Python Bootcamp From Zero to Hero in Python,Udemy (Jose Portilla),"Python Programming, OOP, Data Structures, Web Scraping, APIs, Flask",4.6,534 773,Beginner · Course · 22 h
+1,Java Programming and Software Engineering Fundamentals,Duke University via Coursera,"Java, Data Structures, Algorithms, Software Engineering Principles",4.7,47 238,Beginner · Specialization · 5 months
+2,"The Web Developer Bootcamp: HTML, CSS, JS, Node",Udemy (Colt Steele),"HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, REST APIs",4.7,280 297,Beginner · Course · 60 h
+3,Beginning C++ Programming – From Beginner to Beyond,Udemy (Frank Mitropoulos),"C++, OOP, STL, Memory Management, Templates",4.6,38 412,Beginner · Course · 23 h
+4,The Complete SQL Bootcamp,Udemy (Jose Portilla),"SQL, PostgreSQL, Joins, Subqueries, Window Functions",4.7,137 891,Beginner · Course · 9 h
+5,MongoDB Basics,MongoDB University,"NoSQL Databases, MongoDB Queries, Aggregation, Schema Design",4.5,8 234,Beginner · Course · 6 h
+6,Linux for Developers,The Linux Foundation via edX,"Linux/Unix, Shell Scripting, File Systems, Permissions",4.6,12 467,Beginner · Course · 8 weeks
+7,"Git Complete: The definitive, step-by-step guide",Udemy (Jason Taylor),"Git & Version Control, Branching, Merging, Workflows",4.7,64 321,Beginner · Course · 7 h
+8,AWS Certified Solutions Architect – Associate,A Cloud Guru,"Amazon Web Services, EC2, S3, VPC, IAM, RDS, High Availability",4.7,25 074,Intermediate · Course · 22 h
+9,Microsoft Azure Fundamentals,Microsoft via Coursera,"Microsoft Azure, Azure, Storage, Networking, Identity",4.7,9 312,Beginner · Course · 1 month
+10,Google Cloud Fundamentals: Core Infrastructure,Google Cloud via Coursera,"GCP, Compute Engine, Cloud Storage, IAM",4.6,11 045,Beginner · Course · 6 weeks
+11,Docker Mastery: with Kubernetes + Swarm,Udemy (Bret Fisher),"Docker, Containerization, Images, Registries",4.7,22 103,Beginner · Course · 17 h
+12,Learn Kubernetes,Google Cloud via Coursera,"Kubernetes, Pods, Services, Deployments, Helm",4.6,4 012,Beginner · Course · 4 weeks
+13,DevOps Practitioner,Simplilearn,"CI/CD, DevOps, Jenkins, Terraform, Monitoring",4.5,10 487,Intermediate · Program · 6 months
+14,Google Data Analytics,Google via Coursera,"Data Analysis, R, SQL, Excel, Data Visualization",4.8,137 456,Beginner · Professional Cert. · 6 months
+15,IBM Data Science,IBM via Coursera,"Data Science, Python, Machine Learning, SQL, Visualization",4.6,120 212,Beginner · Professional Cert. · 6 months
+16,Data Engineering on Google Cloud,Google Cloud via Coursera,"Data Engineering, BigQuery, Dataflow, Pub/Sub, ETL",4.5,9 102,Intermediate · Specialization · 3 months
+17,Machine Learning,Stanford (Andrew Ng) via Coursera,"Machine Learning, Regression, Classification, Neural Nets",4.9,32 681,Beginner · Course · 11 weeks
+18,Deep Learning Specialization,DeepLearning.AI via Coursera,"Neural Networks, CNNs, RNNs, TensorFlow, Keras",4.9,135 911,Intermediate · Specialization · 5 months
+19,Prompt Engineering for AI,Udemy (Rohit Gupta),"Generative AI, Prompt Design, Chatbots",4.5,3 214,Beginner · Course · 2 h
+20,Introduction to Cybersecurity,Cisco via Coursera,"Cybersecurity, Network Security, Threats, Mitigation",4.7,20 043,Beginner · Specialization · 5 months
+21,Network Security & Database Vulnerabilities,NYU via edX,"Network Architecture, Firewalls, IDS/IPS, Secure Design",4.4,3 129,Intermediate · Course · 6 weeks
+22,Blockchain Basics,ConsenSys via Coursera,"Blockchain, Ethereum, Smart Contracts",4.6,8 112,Beginner · Course · 4 weeks
+23,"Big Data Essentials: HDFS, MapReduce & Spark",Yandex via Coursera,"Hadoop, Spark, HDFS, MapReduce",4.5,5 021,Beginner · Course · 4 weeks
+24,API Design and Fundamentals,Google Cloud via Coursera,"API Development, REST, OpenAPI, Security",4.6,6 133,Intermediate · Course · 4 weeks
+25,Modern React with Redux,Udemy (Stephen Grider),"React, Redux, Hooks, Routing, Testing",4.7,128 402,Intermediate · Course · 52 h
+26,"Angular – The Complete Guide: CLI, RxJS, NgRx",Udemy (Maximilian Schwarzmüller),"Angular, TypeScript, RxJS, NgRx",4.7,136 075,Intermediate · Course · 45 h
+27,"Node.js, Express, MongoDB & More: The Complete Bootcamp",Udemy (Jonas Schmedtmann),"Node.js, Express.js, MongoDB, REST APIs",4.8,39 225,Intermediate · Course · 35 h
+28,The Complete Android N Developer Course,Udemy (Rob Percival),"Android Development, Java, Kotlin, UI, Data Storage",4.3,112 543,Beginner · Course · 30 h
+29,Internet of Things Specialization,UC Irvine via Coursera,"IoT Architecture, Arduino, Raspberry Pi, MQTT",4.5,11 012,Beginner · Specialization · 6 months
+30,Google UX Design,Google via Coursera,"UX Research, Wireframing, Prototyping, Figma, User Testing",4.8,75 321,Beginner · Professional Cert. · 6 months
