@@ -1,0 +1,6 @@
+venv/
+old/
+
+*.env
+
+ner-finetuned/
